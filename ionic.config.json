@@ -1,0 +1,7 @@
+{
+  "name": "ph-u3-cristhian-bravo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}

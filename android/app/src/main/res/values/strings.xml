@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">ph-u3-cristhian-bravo</string>
+    <string name="title_activity_main">ph-u3-cristhian-bravo</string>
+    <string name="package_name">ph.u3.cristhian.bravo</string>
+    <string name="custom_url_scheme">ph.u3.cristhian.bravo</string>
+</resources>
